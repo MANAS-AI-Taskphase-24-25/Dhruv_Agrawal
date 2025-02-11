@@ -1,0 +1,17 @@
+/home/ubuntu/chat_interface/install/chat_interface/lib/chat_interface/chat_publisher
+/home/ubuntu/chat_interface/install/chat_interface/lib/chat_interface/chat_subscriber
+/home/ubuntu/chat_interface/install/chat_interface/share/ament_index/resource_index/package_run_dependencies/chat_interface
+/home/ubuntu/chat_interface/install/chat_interface/share/ament_index/resource_index/parent_prefix_path/chat_interface
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/environment/ament_prefix_path.sh
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/environment/ament_prefix_path.dsv
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/environment/path.sh
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/environment/path.dsv
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/local_setup.bash
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/local_setup.sh
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/local_setup.zsh
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/local_setup.dsv
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/package.dsv
+/home/ubuntu/chat_interface/install/chat_interface/share/ament_index/resource_index/packages/chat_interface
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/cmake/chat_interfaceConfig.cmake
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/cmake/chat_interfaceConfig-version.cmake
+/home/ubuntu/chat_interface/install/chat_interface/share/chat_interface/package.xml
